@@ -1,0 +1,8 @@
+{
+  "name": "bitcoin-auto-staking-vault",
+  "version": "1.0.0",
+  "description": "Auto compounding staking vault for Bitcoin L1",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
